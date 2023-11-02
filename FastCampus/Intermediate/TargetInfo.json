@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FastCampus",
+			"Path": "..\\Source\\FastCampus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FastCampusEditor",
+			"Path": "..\\Source\\FastCampusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

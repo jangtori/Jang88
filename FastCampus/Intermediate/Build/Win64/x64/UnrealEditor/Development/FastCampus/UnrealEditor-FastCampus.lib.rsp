@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FastCampus.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Jang88\FastCampus\Intermediate\Build\Win64\x64\FastCampusEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\Jang88\FastCampus\Intermediate\Build\Win64\x64\UnrealEditor\Development\FastCampus\FastCampus.cpp.obj"
+"F:\Jang88\FastCampus\Intermediate\Build\Win64\x64\UnrealEditor\Development\FastCampus\Default.rc2.res"
+/OUT:"F:\Jang88\FastCampus\Intermediate\Build\Win64\x64\UnrealEditor\Development\FastCampus\UnrealEditor-FastCampus.lib"

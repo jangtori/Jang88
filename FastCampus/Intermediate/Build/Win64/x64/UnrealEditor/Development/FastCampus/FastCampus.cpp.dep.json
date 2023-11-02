@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\jang88\\fastcampus\\source\\fastcampus\\fastcampus.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\jang88\\fastcampus\\intermediate\\build\\win64\\x64\\fastcampuseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\jang88\\fastcampus\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fastcampus\\definitions.fastcampus.h",
+            "f:\\jang88\\fastcampus\\source\\fastcampus\\fastcampus.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
